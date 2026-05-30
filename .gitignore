@@ -1,0 +1,12 @@
+# Ignorar pastas de ambiente virtual
+venv/
+.env/
+env/
+
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos grandes de dados
+*.csv
+*.json
+*.sqlite
